@@ -5,7 +5,7 @@
 Clone the GitHub Repository.
 
 ```
-$ git clone https://github.com/sachin-duhan26/COMPETITVE-PROGRAMMING.git
+$ git clone https://github.com/sachin-duhan26/leetcode.git
 ```
 
 ## Contributing
