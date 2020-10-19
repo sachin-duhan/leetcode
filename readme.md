@@ -27,7 +27,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 # AUTHOR
 
 ```
-Name - [sachin duhan](https://sachinduhan.me).
+Name - (sachin duhan)[https://sachinduhan.me].
 Institute - Delhi Technological University
 Course - B.Tech (Mathematics and computing) 
 Batch of 2021
